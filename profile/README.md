@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on my https://a.stupid.cat<br>I'm looking to collaborate on anything
+I'm currently working on https://a.stupid.cat<br>I'm looking to collaborate on anything
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AriTheStupidCat&label=Profile%20views&color=0e75b6&style=flat" alt="imbadatthisstuff" /> </p>
 
 # 💻 Tech Stack:
